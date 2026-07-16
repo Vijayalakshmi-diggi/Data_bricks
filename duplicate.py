@@ -8,4 +8,3 @@ for ch in a:
         c.append(ch)
 print(b)
 print(c)
-print(a)
